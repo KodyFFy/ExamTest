@@ -1,0 +1,15 @@
+C:\Users\KodyFFy\Documents\GitHub\Lib\Lib\bin\Debug\net6.0\SampleText.exe
+C:\Users\KodyFFy\Documents\GitHub\Lib\Lib\bin\Debug\net6.0\SampleText.deps.json
+C:\Users\KodyFFy\Documents\GitHub\Lib\Lib\bin\Debug\net6.0\SampleText.runtimeconfig.json
+C:\Users\KodyFFy\Documents\GitHub\Lib\Lib\bin\Debug\net6.0\SampleText.dll
+C:\Users\KodyFFy\Documents\GitHub\Lib\Lib\bin\Debug\net6.0\SampleText.pdb
+C:\Users\KodyFFy\Documents\GitHub\Lib\Lib\obj\Debug\net6.0\SampleText.csproj.AssemblyReference.cache
+C:\Users\KodyFFy\Documents\GitHub\Lib\Lib\obj\Debug\net6.0\SampleText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KodyFFy\Documents\GitHub\Lib\Lib\obj\Debug\net6.0\SampleText.AssemblyInfoInputs.cache
+C:\Users\KodyFFy\Documents\GitHub\Lib\Lib\obj\Debug\net6.0\SampleText.AssemblyInfo.cs
+C:\Users\KodyFFy\Documents\GitHub\Lib\Lib\obj\Debug\net6.0\SampleText.csproj.CoreCompileInputs.cache
+C:\Users\KodyFFy\Documents\GitHub\Lib\Lib\obj\Debug\net6.0\SampleText.dll
+C:\Users\KodyFFy\Documents\GitHub\Lib\Lib\obj\Debug\net6.0\refint\SampleText.dll
+C:\Users\KodyFFy\Documents\GitHub\Lib\Lib\obj\Debug\net6.0\SampleText.pdb
+C:\Users\KodyFFy\Documents\GitHub\Lib\Lib\obj\Debug\net6.0\SampleText.genruntimeconfig.cache
+C:\Users\KodyFFy\Documents\GitHub\Lib\Lib\obj\Debug\net6.0\ref\SampleText.dll
